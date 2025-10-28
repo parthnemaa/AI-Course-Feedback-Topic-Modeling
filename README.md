@@ -30,14 +30,15 @@ Step 1: Data Understanding**
 - Bar charts created with Matplotlib and Seaborn highlighting topic prevalence.
 
 ***
+## Topic Modelling Snapshot 
 
-## 📊 Topic Modeling Result Snapshot| Topic | Top Keywords                              | Possible Interpretation                 |
-|-------|------------------------------------------|---------------------------------------|
-| 1     | instructor, explanation, engaging, style | Instructor quality and teaching clarity |
-| 2     | assignments, practical, real, projects    | Hands-on learning & project experience  |
-| 3     | platform, bugs, interface, speed          | Platform usability & technical issues   |
-| 4     | ai, models, examples, concepts             | Course depth & technical content        |
-| 5     | feedback, improvement, updates             | Student support & responsiveness        |
+| **Topic** | **Top Keywords**                                   | **Possible Interpretation**             |
+| :-------: | :------------------------------------------------- | :-------------------------------------- |
+|   **1**   | instructor, explanation, engaging, teaching, style | Instructor quality and teaching clarity |
+|   **2**   | assignments, practical, real, projects, learning   | Hands-on learning & project experience  |
+|   **3**   | platform, bugs, interface, speed, login            | Platform usability and technical issues |
+|   **4**   | ai, models, examples, concepts, accuracy           | Course depth and technical content      |
+|   **5**   | feedback, improvement, updates, doubt, response    | Student support and responsiveness      |
 
 ***
 
