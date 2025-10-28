@@ -1,4 +1,4 @@
-# 🧠 Student Feedback Topic Modeling — AI-Driven Courses Analysis***
+# 🧠 Student Feedback Topic Modeling — AI-Driven Courses Analysis
 
 ## 🎯 Project OverviewA Delhi-based online learning startup aims to analyze large volumes of student feedback for its newly launched AI-driven courses. Due to the absence of real-world feedback data, a synthetic dataset was generated to simulate realistic student opinions covering aspects like course content, instructor quality, engagement, and platform usability.
 
@@ -39,27 +39,34 @@
 
 ***
 
-## 🔎 Interpretation — Expanded Insights & Recommendations### Instructor QualityStudents commend engaging instructors but highlight the need for clearer explanations to strengthen understanding.  
+## 🔎 Interpretation — Expanded Insights & Recommendations
+
+### Instructor Quality 
+Students commend engaging instructors but highlight the need for clearer explanations to strengthen understanding.  
 **Recommendation:**  
 - Regular faculty training sessions emphasizing clarity.  
 - Promote interactive teaching and student engagement workshops.
 
-### Practical LearningPractical assignments and real-life projects are highly valued, enhancing knowledge retention.  
+### Practical Learning 
+Practical assignments and real-life projects are highly valued, enhancing knowledge retention.  
 **Recommendation:**  
 - Include capstone projects and industry case studies.  
 - Deploy AI labs and project-based learning modules.
 
-### Platform UsabilityFeedback frequently mentions bugs and slow or confusing interfaces impacting learning engagement.  
+### Platform Usability
+Feedback frequently mentions bugs and slow or confusing interfaces impacting learning engagement.  
 **Recommendation:**  
 - Prioritize UI/UX improvements and mobile responsiveness.  
 - Develop a dedicated bug reporting and rapid fix system.
 
-### Course DepthInterest in deeper AI concepts such as model accuracy and concepts indicates room for advanced modules.  
+### Course Depth
+Interest in deeper AI concepts such as model accuracy and concepts indicates room for advanced modules.  
 **Recommendation:**  
 - Provide modular content with advanced AI tracks.  
 - Increase examples and hands-on exercises covering key AI algorithms.
 
-### Student SupportRequests for fast query resolution and better feedback highlight support improvement areas.  
+### Student Support
+Requests for fast query resolution and better feedback highlight support improvement areas.  
 **Recommendation:**  
 - Implement chatbot and mentor support for real-time queries.  
 - Establish regular feedback collection and response analysis.
