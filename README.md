@@ -1,6 +1,7 @@
 # 🧠 Student Feedback Topic Modeling — AI-Driven Courses Analysis
 
-## 🎯 Project OverviewA Delhi-based online learning startup aims to analyze large volumes of student feedback for its newly launched AI-driven courses. Due to the absence of real-world feedback data, a synthetic dataset was generated to simulate realistic student opinions covering aspects like course content, instructor quality, engagement, and platform usability.
+## 🎯 Project Overview
+A Delhi-based online learning startup aims to analyze large volumes of student feedback for its newly launched AI-driven courses. Due to the absence of real-world feedback data, a synthetic dataset was generated to simulate realistic student opinions covering aspects like course content, instructor quality, engagement, and platform usability.
 
 ***
 
